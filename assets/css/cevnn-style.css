@@ -1,0 +1,64 @@
+.payment_method_cevnn img{
+    max-height: 40px !important;
+    max-width: 401px !important;
+    width:100%;
+}
+
+.iframe-container{
+    width:100%;
+    height:800px;
+
+}
+
+.cevnn_iframe{
+    width:100%;
+    height:100%;
+    margin-left: auto;
+    margin-right: auto;
+    border:none;
+}
+
+.cevnn_iframe_loader {
+    left: 40%;
+    top:10%;
+    display:block;
+    border-radius:20px;
+    padding:25px;
+    background:inherit;
+    vertical-align:middle;
+}
+
+.online-debit-cta{
+    margin-top:25px;
+    margin-bottom:25px;
+    text-align: center;
+    background-color: inherit;
+    -webkit-border-radius: 4;
+    -moz-border-radius: 4;
+    border-radius: 4px;
+    -webkit-box-shadow: 2px 2px 5px #666666;
+    -moz-box-shadow: 2px 2px 5px #666666;
+    box-shadow: 2px 2px 5px #666666;
+    color: black;
+    font-size: 1.1em;
+    padding: 2px 15px 2px 15px;
+    text-decoration: none;
+    display:flex;
+    align-items:center;
+    text-align:center;
+}
+
+.online-debit-cta-img{
+  margin-left:auto;
+}
+
+.center-cta{
+    margin-right:auto !important;
+}
+
+.center-cta-p{
+    margin-left:auto !important;
+    margin-right:auto !important;
+    font-size: 0.9em !important;
+    padding-top:20px;
+}
